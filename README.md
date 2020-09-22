@@ -22,14 +22,16 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 ~~I’m currently working on the Final Capstone ([Microverse Curriculum](https://www.microverse.org/#world-class-curriculum))~~ Working on Interview Prep, Data Structures and Algorithms
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on DevPost
+
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: Anything is possible
 - 📫 How to reach me: aabou9@gmail.com
-- 😄 Pronouns: ale[x360]
-- 📝 [Resume](https://docs.google.com/document/d/14yTJWkC2g8uR3CkTbcGvkUYWMIy4g7Tbj63Bc8uCLjE/edit?usp=sharing)
+- 👨 I’m currently Working on Interview Prep, Data Structures and Algorithms
+- 🌱 I’m currently learning React
+- 👯 I’m currently looking to collaborate on DevPost
+- 👨 I’m currently Looking for a new opportunity
+- 😄 Pronouns: adamclasic
+
 
 ![Profile views](https://gpvc.arturio.dev/adamclasic)
 
