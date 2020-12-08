@@ -54,5 +54,5 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 
 ![Adam' Github Stats](https://github-readme-stats.vercel.app/api?username=adamclasic&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Adam' Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamclasic)](https://github.com/adamclasic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamclasic&layout=compact)](https://github.com/adamclasic)
 
