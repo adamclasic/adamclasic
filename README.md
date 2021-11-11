@@ -27,7 +27,6 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - ⚡️ Fun-Fact: Anything is possible
 - 📫 How to reach me: aabou9@gmail.com
 - 👨 I’m currently Working on Interview Prep, Data Structures and Algorithms
-- 🌱 I’m currently learning React
 - 👯 I’m currently looking to collaborate on DevPost
 - 👨 I’m currently Looking for a new opportunity
 - 😄 Pronouns: adamclasic
